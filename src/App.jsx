@@ -4,6 +4,7 @@ import MainScreen from './components/Hero.jsx';
 import Navbar from './components/navbar.jsx';
 import Home from './pages/Home.jsx';
 import About from './pages/About.jsx';
+import InterviewForm from './pages/Interview.jsx';
 
 
 const App = () => {
@@ -15,6 +16,8 @@ const App = () => {
           <Route path="/" element={<MainScreen />} />
           <Route path="/home" element={<Home />} />
           <Route path="/about-drdo" element={<About />} />
+          <Route path="/interview" element={<InterviewForm />} />
+
 
 
 
