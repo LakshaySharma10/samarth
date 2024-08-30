@@ -206,7 +206,7 @@ const InterviewForm = () => {
               {...getRootProps()}
               className="w-full px-5 py-10 border-2 border-dashed border-green-600 rounded-3xl bg-transparent text-center text-white cursor-pointer"
             >
-              <input {...getInputProps()} />
+              <input {...getInputProps()} accept='.pdf' />
               <div className="flex flex-col items-center justify-center h-full">
                 <span className="text-3xl">+</span>
                 <p className="mt-2">Drag & drop your resume here, or click to select a file</p>
