@@ -54,7 +54,7 @@ const Hero = () => {
           id="description" 
           className='text-center mt-28 md:text-lg text-sm max-w-2xl opacity-0 translate-y-20 px-4'
         >
-        Unlock your potential with Samarth, your gateway to a dynamic and fulfilling career in cutting-edge research and innovation. Begin a prestigious journey that empowers you to contribute to transformative projects and pioneering advancements that will shape the future. Explore opportunities that challenge you to excel and make a lasting impact.
+        Unlock your potential with Samarth, where transformative projects and pioneering advancements shape your dynamic career and lasting impact.
         </p>
       </div>
       <div 
