@@ -54,7 +54,7 @@ const Hero = () => {
           id="description" 
           className='text-center mt-28 md:text-lg text-sm max-w-2xl opacity-0 translate-y-20 px-4'
         >
-          Join the nation’s defense initiative with DRDO through Samarth, your gateway to a distinguished career in defense research and development. Embark on a prestigious journey and contribute to groundbreaking innovations that shape the future of security.
+        Unlock your potential with Samarth, your gateway to a dynamic and fulfilling career in cutting-edge research and innovation. Begin a prestigious journey that empowers you to contribute to transformative projects and pioneering advancements that will shape the future. Explore opportunities that challenge you to excel and make a lasting impact.
         </p>
       </div>
       <div 
@@ -62,7 +62,7 @@ const Hero = () => {
         className='flex flex-col items-center opacity-0 translate-y-28 relative z-10'
       >
         <a href='' onClick={handleApplyClick} className='btn'>Apply Now</a>
-        <p className='font-normal text-xl'>Shape the Future of National Security</p>
+        {/* <p className='font-normal text-xl'>Shape the Future of National Security</p> */}
       </div>
 
       {/* Radar Pulse Effect */}
